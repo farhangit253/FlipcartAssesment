@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="14" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="272206" started-at="2021-07-07T12:21:00Z" finished-at="2021-07-07T12:25:32Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="272206" started-at="2021-07-07T12:21:00Z" finished-at="2021-07-07T12:25:32Z">
+      <class name="maintest.TestExecution">
+        <test-method status="PASS" signature="launch()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="launch" is-config="true" duration-ms="21609" started-at="2021-07-07T17:51:00Z" finished-at="2021-07-07T17:51:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="testCase1" duration-ms="119" started-at="2021-07-07T17:51:22Z" finished-at="2021-07-07T17:51:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="closeBrowser" is-config="true" duration-ms="3204" started-at="2021-07-07T17:51:22Z" finished-at="2021-07-07T17:51:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="launch" is-config="true" duration-ms="12816" started-at="2021-07-07T17:51:25Z" finished-at="2021-07-07T17:51:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="testCase2" duration-ms="544" started-at="2021-07-07T17:51:38Z" finished-at="2021-07-07T17:51:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="closeBrowser" is-config="true" duration-ms="1569" started-at="2021-07-07T17:51:38Z" finished-at="2021-07-07T17:51:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="launch" is-config="true" duration-ms="11933" started-at="2021-07-07T17:51:40Z" finished-at="2021-07-07T17:51:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="testCase3()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="testCase3" duration-ms="12" started-at="2021-07-07T17:51:52Z" finished-at="2021-07-07T17:51:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="closeBrowser" is-config="true" duration-ms="1151" started-at="2021-07-07T17:51:52Z" finished-at="2021-07-07T17:51:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="launch" is-config="true" duration-ms="10213" started-at="2021-07-07T17:51:53Z" finished-at="2021-07-07T17:52:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="testCase4()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="testCase4" duration-ms="39985" started-at="2021-07-07T17:52:03Z" finished-at="2021-07-07T17:52:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase4 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="closeBrowser" is-config="true" duration-ms="1038" started-at="2021-07-07T17:52:43Z" finished-at="2021-07-07T17:52:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="launch" is-config="true" duration-ms="15125" started-at="2021-07-07T17:52:44Z" finished-at="2021-07-07T17:52:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="testCase5()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="testCase5" duration-ms="2841" started-at="2021-07-07T17:52:59Z" finished-at="2021-07-07T17:53:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase5 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="closeBrowser" is-config="true" duration-ms="1638" started-at="2021-07-07T17:53:02Z" finished-at="2021-07-07T17:53:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="launch" is-config="true" duration-ms="10976" started-at="2021-07-07T17:53:04Z" finished-at="2021-07-07T17:53:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="testCase6()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="testCase6" duration-ms="703" started-at="2021-07-07T17:53:15Z" finished-at="2021-07-07T17:53:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase6 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="closeBrowser" is-config="true" duration-ms="1063" started-at="2021-07-07T17:53:15Z" finished-at="2021-07-07T17:53:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="launch" is-config="true" duration-ms="10904" started-at="2021-07-07T17:53:17Z" finished-at="2021-07-07T17:53:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="testCase7()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="testCase7" duration-ms="5552" started-at="2021-07-07T17:53:27Z" finished-at="2021-07-07T17:53:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase7 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="closeBrowser" is-config="true" duration-ms="1067" started-at="2021-07-07T17:53:33Z" finished-at="2021-07-07T17:53:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="launch" is-config="true" duration-ms="18030" started-at="2021-07-07T17:53:34Z" finished-at="2021-07-07T17:53:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="testCase8()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="testCase8" duration-ms="4239" started-at="2021-07-07T17:53:52Z" finished-at="2021-07-07T17:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase8 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="closeBrowser" is-config="true" duration-ms="1210" started-at="2021-07-07T17:53:56Z" finished-at="2021-07-07T17:53:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="launch" is-config="true" duration-ms="9661" started-at="2021-07-07T17:53:58Z" finished-at="2021-07-07T17:54:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="testcase9()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="testcase9" duration-ms="4311" started-at="2021-07-07T17:54:07Z" finished-at="2021-07-07T17:54:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase9 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="closeBrowser" is-config="true" duration-ms="1645" started-at="2021-07-07T17:54:12Z" finished-at="2021-07-07T17:54:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="launch" is-config="true" duration-ms="7892" started-at="2021-07-07T17:54:13Z" finished-at="2021-07-07T17:54:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="testCase10()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="testCase10" duration-ms="4159" started-at="2021-07-07T17:54:21Z" finished-at="2021-07-07T17:54:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase10 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="closeBrowser" is-config="true" duration-ms="1738" started-at="2021-07-07T17:54:25Z" finished-at="2021-07-07T17:54:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="launch" is-config="true" duration-ms="9438" started-at="2021-07-07T17:54:27Z" finished-at="2021-07-07T17:54:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="testCase11()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="testCase11" duration-ms="4263" started-at="2021-07-07T17:54:36Z" finished-at="2021-07-07T17:54:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase11 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="closeBrowser" is-config="true" duration-ms="1557" started-at="2021-07-07T17:54:41Z" finished-at="2021-07-07T17:54:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="launch" is-config="true" duration-ms="7626" started-at="2021-07-07T17:54:42Z" finished-at="2021-07-07T17:54:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="testCase12()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="testCase12" duration-ms="8173" started-at="2021-07-07T17:54:50Z" finished-at="2021-07-07T17:54:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase12 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="closeBrowser" is-config="true" duration-ms="1094" started-at="2021-07-07T17:54:58Z" finished-at="2021-07-07T17:54:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="launch" is-config="true" duration-ms="8721" started-at="2021-07-07T17:54:59Z" finished-at="2021-07-07T17:55:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="testCase13()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="testCase13" duration-ms="5484" started-at="2021-07-07T17:55:08Z" finished-at="2021-07-07T17:55:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase13 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="closeBrowser" is-config="true" duration-ms="1723" started-at="2021-07-07T17:55:13Z" finished-at="2021-07-07T17:55:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="launch" is-config="true" duration-ms="9117" started-at="2021-07-07T17:55:15Z" finished-at="2021-07-07T17:55:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="testCase14()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="testCase14" duration-ms="6955" started-at="2021-07-07T17:55:24Z" finished-at="2021-07-07T17:55:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase14 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:maintest.TestExecution@2ff4f00f]" name="closeBrowser" is-config="true" duration-ms="914" started-at="2021-07-07T17:55:31Z" finished-at="2021-07-07T17:55:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- maintest.TestExecution -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

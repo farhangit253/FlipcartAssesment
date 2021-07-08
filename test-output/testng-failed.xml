@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="classes">
+  <listeners>
+    <listener class-name="reports.ExtentReport"/>
+    <listener class-name="utils.ListenersClass"/>
+  </listeners>
+  <test name="Test(failed)" parallel="classes">
+    <classes>
+      <class name="maintest.TestExecution">
+        <methods>
+          <include name="launch"/>
+          <include name="testCase6"/>
+          <include name="testCase12"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- maintest.TestExecution -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
